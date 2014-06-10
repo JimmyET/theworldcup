@@ -2,10 +2,7 @@ package com.bd.theworld.cup;
 
 public enum SubMenu {
 
-	SUB_1("赛程"),
-	SUB_2("直播"),
-	SUB_3("新闻"),
-	SUB_4("我的");
+	SUB_1("璧涚▼"), SUB_2("鐩存挱"), SUB_3("鏂伴椈"), SUB_4("鎴戠殑");
 
 	private String titleName;
 	
